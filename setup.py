@@ -9,7 +9,7 @@ history = open('HISTORY.rst').read()
 
 setup(
     name = 'fandjango',
-    version = __version__,
+    version = '4.0.6',
     description = "Fandjango makes it stupidly easy to create Facebook applications with Django.",
     long_description = readme + '\n\n' + history,
     author = "Johannes Gorset",
